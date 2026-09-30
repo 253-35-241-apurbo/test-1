@@ -1,1 +1,2 @@
 i am from file 1
+i want tou rewrite this line. 
